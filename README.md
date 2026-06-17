@@ -1,4 +1,8 @@
-The LAB TOOLS project consists of analytical tools to support experimental data processing activities in physical sciences undergraduate lab classes, including statistical analysis, uncertainties propagation, and curve fitting.
+The QapybaraLAB project consists of computational tools to support Physics teaching and learning. Currently, the project is comprised of:
+
+**LAB TOOLS**: 3 analytical tools to support experimental data processing activities in physical sciences undergraduate lab classes, including statistical analysis, uncertainties propagation, and curve fitting;
+
+**NEWTON TOOLS**: a graphical tool to analyse 1D kinematics. 
 
 Each Jupyter notebook consists of a text cell, which briefly explains how the tool works, and a code cell that, when executed, provides access to a simplified graphical interface for using the tool's features.
 
