@@ -1,4 +1,4 @@
-The NEWTON TOOLS project consists of computational tools to support Newtonian Mechanics teaching and learning. Currently, there is a graphical interface to study 1D kinematics.
+The NEWTON TOOLS project consists of computational tools to support Newtonian Mechanics teaching and learning. Currently, there is a graphical interface to study 1D kinematics and a tool to calculate force resultants.
 
 Each Jupyter notebook consists of a text cell, which briefly explains how the tool works, and a code cell that, when executed, provides access to a simplified graphical interface for using the tool's features.
 
